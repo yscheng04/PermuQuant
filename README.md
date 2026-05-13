@@ -1,6 +1,8 @@
 # PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models
 Yongsen Cheng, [Kai Liu](https://kai-liu.cn/), Kaiwen Tao, Junxian Li, Zhixin Wang, Zhikai Chen, Renjing Pei, [Yulun Zhang](http://yulunzhang.com/)
 
+[![Paper](https://img.shields.io/badge/arXiv-2605.09503-b31b1b.svg)](https://arxiv.org/abs/2605.09503)
+
 #### 🔥🔥🔥 News
 
 - **2026-05-09:** This repo is released.
@@ -34,4 +36,16 @@ Yongsen Cheng, [Kai Liu](https://kai-liu.cn/), Kaiwen Tao, Junxian Li, Zhixin Wa
 <p align="center">
   <img width="900" src="figs/main_result_vis.png">
 </p>
+## <a name="citation"></a>📎 Citation
+
+If you find our work helpful in your research or work, please cite our work.
+
+```
+@inproceedings{Cheng2026permuquant,
+    title={PermuQuant: Lowering Per-Group Quantization Error by Reordering Channels for Diffusion Models},
+    author={Cheng, Yongsen and Liu, Kai and Tao, Kaiwen and Li, Junxian and Wang, Zhixin and Chen, Zhikai and Pei, Renjing and Zhang, Yulun},
+    journal={arXiv preprint arXiv:2605.09503},
+    year={2026}
+}
+```
 
