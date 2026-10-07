@@ -5,6 +5,7 @@ Yongsen Cheng, [Kai Liu](https://kai-liu.cn/), Kaiwen Tao, Junxian Li, Zhixin Wa
 
 #### 🔥🔥🔥 News
 
+- **2026-09-25:** PermuQuant is accepted by NeurIPS 2026!!!
 - **2026-05-09:** This repo is released.
 
 ---
