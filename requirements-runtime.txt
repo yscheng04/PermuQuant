@@ -1,0 +1,49 @@
+# PyTorch 2.8.0/cu128, torchvision 0.23.0, torchaudio 2.8.0 and xformers
+# are installed separately from the official PyTorch cu128 index.
+numpy==1.26.4
+pillow==11.3.0
+huggingface-hub==0.36.0
+transformers==4.57.0
+tokenizers==0.22.2
+diffusers==0.37.1
+accelerate==1.0.1
+peft==0.17.0
+safetensors==0.7.0
+sentencepiece==0.2.1
+protobuf==3.20.3
+timm==0.6.13
+einops==0.8.2
+mmcv==1.7.2
+omegaconf==2.3.0
+pyrallis==0.3.1
+opencv-python==4.11.0.86
+scipy==1.15.3
+scikit-image==0.25.2
+lpips==0.1.4
+loguru
+fire
+ftfy
+matplotlib
+termcolor
+pytz
+psutil
+ninja
+qwen-vl-utils
+imageio
+imageio-ffmpeg
+av
+patch-conv
+lmdb
+absl-py
+ml-collections
+wandb
+ruff==0.6.8
+invisible-watermark
+setuptools<81
+
+# Legacy quick-eval wrappers calculate FID/KID in the inference process.
+torchmetrics==1.9.0
+torch-fidelity==0.4.0
+
+# Editable FLUX build backend.
+setuptools-scm>=8

@@ -1,0 +1,32 @@
+Task:Gen Filename:00000.png Prompt:A man wearing a straw hat smokes a cigarette .
+Task:Gen Filename:00001.png Prompt:A man in a red jacket is holding a piece of paper while posing .
+Task:Gen Filename:00002.png Prompt:A female toddler wearing a pink shirt is playing on a playground .
+Task:Gen Filename:00003.png Prompt:A man bracing himself against the pull of a large kite .
+Task:Gen Filename:00004.png Prompt:A girl falling down in the snow as another looks on .
+Task:Gen Filename:00005.png Prompt:A boy plays in a pool with an inflatable toy .
+Task:Gen Filename:00006.png Prompt:A cyclist is riding along a white line in a busy city center .
+Task:Gen Filename:00007.png Prompt:A dog runs through a field .
+Task:Gen Filename:00008.png Prompt:a black and brown dog staring off into the distance at something
+Task:Gen Filename:00009.png Prompt:A hair dresser is applying permed on a client 's hair in a salon .
+Task:Gen Filename:00010.png Prompt:A black and white dog bits the jacket of a person .
+Task:Gen Filename:00011.png Prompt:A cheerleader thrown into the air
+Task:Gen Filename:00012.png Prompt:Two cute little girls enjoying corn on the cob .
+Task:Gen Filename:00013.png Prompt:The two dogs are running toward the camera .
+Task:Gen Filename:00014.png Prompt:A brown and black dog is jumping through a ring of fire .
+Task:Gen Filename:00015.png Prompt:A man in a white shirt and jeans playing an accordion .
+Task:Gen Filename:00016.png Prompt:A big tri-colored and a smaller puppy with light blue eyes are playing together .
+Task:Gen Filename:00017.png Prompt:Naked children play on the muddy riverbank .
+Task:Gen Filename:00018.png Prompt:A group of people cross the street with buckets and poles .
+Task:Gen Filename:00019.png Prompt:An asian tennis player returning a serve .
+Task:Gen Filename:00020.png Prompt:A group of children playing with props
+Task:Gen Filename:00021.png Prompt:A dog wearing a cape is running through the snow .
+Task:Gen Filename:00022.png Prompt:A wine shop with an open sign in the window and two people out front .
+Task:Gen Filename:00023.png Prompt:A man sits in a wheelchair as a woman pushes him .
+Task:Gen Filename:00024.png Prompt:A brown dog bares its fangs .
+Task:Gen Filename:00025.png Prompt:A black and white dog stands neck deep in clear water .
+Task:Gen Filename:00026.png Prompt:A crowd in a European square watching a green shirted man .
+Task:Gen Filename:00027.png Prompt:A boy peeks his head through a painted picture .
+Task:Gen Filename:00028.png Prompt:A man on the beach in jeans looking at his camera .
+Task:Gen Filename:00029.png Prompt:A boy is jumping over a large hole in the ground .
+Task:Gen Filename:00030.png Prompt:A closeup of two boys playing soccer in their team uniforms .
+Task:Gen Filename:00031.png Prompt:Two asian girls dressed in black pose for a picture in front of dry trees .

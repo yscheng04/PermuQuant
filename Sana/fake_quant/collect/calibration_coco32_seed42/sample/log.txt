@@ -1,0 +1,32 @@
+Task:Gen Filename:00000.png Prompt:A pan filled with veggies and a block of butter.
+Task:Gen Filename:00001.png Prompt:A little girl holding a red frisbee standing on a lush green field.
+Task:Gen Filename:00002.png Prompt:a person holding a clear piece of glass or plastic
+Task:Gen Filename:00003.png Prompt:A man rides a large motorcycle on a freeway.
+Task:Gen Filename:00004.png Prompt:A picture of a cluttered home office desk.
+Task:Gen Filename:00005.png Prompt:a giraffe is standing by a tree line
+Task:Gen Filename:00006.png Prompt:Three pots of bright colorful food cooking on a black stove top.
+Task:Gen Filename:00007.png Prompt:An airplane can be seen traveling through the clouds.
+Task:Gen Filename:00008.png Prompt:A piece of partially-eaten cake sits on a paper plate.
+Task:Gen Filename:00009.png Prompt:A group of giraffe standing next to each other on a dirt field.
+Task:Gen Filename:00010.png Prompt:A yellow fire hydrant with a wet paint sign.
+Task:Gen Filename:00011.png Prompt:A lovely dinner and a bottle of wine
+Task:Gen Filename:00012.png Prompt:A shirtless man playing tennis on a blue court.
+Task:Gen Filename:00013.png Prompt:A person in a wheelchair plays music on a CD player while talking on a wireless telephone.
+Task:Gen Filename:00014.png Prompt:A pitcher getting ready to throw pitch at a game.
+Task:Gen Filename:00015.png Prompt:A double decker bus parked in a bus station next to a baby stroller.
+Task:Gen Filename:00016.png Prompt:A few rows of tables with umbrellas on top of them.
+Task:Gen Filename:00017.png Prompt:A basket with a stuffed teddy bear hangs outside.
+Task:Gen Filename:00018.png Prompt:Two cross country skiers heading onto the trail
+Task:Gen Filename:00019.png Prompt:a brown dog with a collar sniffing a red fire hydrant
+Task:Gen Filename:00020.png Prompt:Two train cars sitting on the tracks with power lines in the backround.
+Task:Gen Filename:00021.png Prompt:A red motorcycle with a back seat parked on the side of a road.
+Task:Gen Filename:00022.png Prompt:A man walking behind a row of parked cars holding an umbrella.
+Task:Gen Filename:00023.png Prompt:A person on skis is in the air.
+Task:Gen Filename:00024.png Prompt:A clock tower with a statue on top of it
+Task:Gen Filename:00025.png Prompt:The striped cat is sitting on top of the car.
+Task:Gen Filename:00026.png Prompt:A woman with a umbrella on a city street.
+Task:Gen Filename:00027.png Prompt:Young boy sitting on top of a briefcase
+Task:Gen Filename:00028.png Prompt:Woman holding up a small boy on a snow trail.
+Task:Gen Filename:00029.png Prompt:A group of people walking across a busy city street.
+Task:Gen Filename:00030.png Prompt:An empty intersection of a colorful urban area.
+Task:Gen Filename:00031.png Prompt:A herd of black cattle standing next to each other.
